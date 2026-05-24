@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Bhupendra 
 
-<!--
-**bhupendradwivedi/bhupendradwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Full Stack Developer  
+ MERN & WordPress Developer  
+ Open Source Contributor  
+ Freelancer  
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- WordPress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Open Source
+- Backend Scaling
+- Clean UI/UX
+
+## Projects
+ Authentication System  
+ Movie App    
+ library management system 
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/bhupendra-dwivedi-9256ba30a
+Email: bhupendradwivedi9752@gmail.com
